@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\LocalSourceCodes\AmtelcoAppLauncher\precompiledWeb\" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="03/26/2013 14:03:34" />
+    <file relUrl="StationAdmin.aspx" publishTime="01/20/2013 16:54:49" />
+    <file relUrl="UserAdmin.aspx" publishTime="03/24/2013 13:45:04" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="06/23/2012 22:35:36" />
+    <file relUrl="Site.Master" publishTime="03/07/2013 14:51:26" />
+    <file relUrl="Styles/Site.css" publishTime="01/28/2013 18:30:24" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="01/20/2013 10:42:57" />
+    <file relUrl="bin/AmtelcoAppLauncher.dll" publishTime="03/26/2013 14:03:27" />
+    <file relUrl="Global.asax" publishTime="01/20/2013 10:42:57" />
+    <file relUrl="bin/AmtelcoAppLauncher.pdb" publishTime="03/26/2013 14:03:27" />
+    <file relUrl="Error.aspx" publishTime="03/07/2013 14:51:26" />
+    <file relUrl="AppAdmin.aspx" publishTime="03/07/2013 14:51:26" />
+    <file relUrl="Default.aspx" publishTime="03/07/2013 14:51:27" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="01/20/2013 10:42:57" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="01/20/2013 10:42:57" />
+  </publishProfile>
+</publishData>

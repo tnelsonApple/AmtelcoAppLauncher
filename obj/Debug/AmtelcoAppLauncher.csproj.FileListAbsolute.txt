@@ -1,0 +1,5 @@
+C:\LocalSourceCodes\AmtelcoAppLauncher\AmtelcoAppLauncher\bin\AmtelcoAppLauncher.dll
+C:\LocalSourceCodes\AmtelcoAppLauncher\AmtelcoAppLauncher\bin\AmtelcoAppLauncher.pdb
+C:\LocalSourceCodes\AmtelcoAppLauncher\AmtelcoAppLauncher\obj\Debug\ResolveAssemblyReference.cache
+C:\LocalSourceCodes\AmtelcoAppLauncher\AmtelcoAppLauncher\obj\Debug\AmtelcoAppLauncher.dll
+C:\LocalSourceCodes\AmtelcoAppLauncher\AmtelcoAppLauncher\obj\Debug\AmtelcoAppLauncher.pdb
