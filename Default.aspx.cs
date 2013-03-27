@@ -17,6 +17,7 @@ namespace AmtelcoAppLauncher
         {
             if (Page.IsPostBack)
             {
+                string test = "";
 
             }
             else
